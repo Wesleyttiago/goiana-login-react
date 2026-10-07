@@ -1,8 +1,8 @@
 # Goiana Login — React
 
-**[Abrir a tela de login online](https://goiana-login-react.wesleytiago470.chatgpt.site)**
+**[Abrir a tela de login online](https://wesleyttiago.github.io/goiana-login-react/)**
 
-A página está privada e pode solicitar login na conta do ChatGPT do proprietário.
+Página pública hospedada no GitHub Pages.
 
 Tela de login responsiva, desenvolvida em **React + Vite**, com uma identidade visual inspirada no portal da Prefeitura de Goiana, Pernambuco. Projeto acadêmico, sem vínculo com o município.
 
@@ -77,4 +77,4 @@ Para ajustar a identidade, comece pelas variáveis de cor no início de `src/sty
 
 O portal oficial consultado foi <https://www.goiana.pe.gov.br/portal/>. A marca pertence à Prefeitura de Goiana e é usada aqui como referência para estudo; isso não representa endosso oficial. A ilustração histórica é autoral e não pretende reproduzir um monumento específico. A fonte DM Sans é distribuída pelo pacote Fontsource com sua licença própria.
 
-A configuração `base: './'` permite servir o build em uma subpasta. O repositório não habilita publicação pública automaticamente.
+A configuração `base: './'` permite servir o build em uma subpasta. O workflow `.github/workflows/deploy.yml` publica automaticamente no GitHub Pages a cada alteração na branch `main`, usando a base `/goiana-login-react/`.
