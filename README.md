@@ -6,11 +6,11 @@ Tela de login em React + Vite, inspirada no site da Prefeitura de Goiana, PE.
 
 ## Rodar no computador
 
-Com o Node.js 22.12 ou superior instalado:
+Com Node.js 22.12 ou superior instalado:
 
 ```bash
 npm ci
 npm run dev
 ```
 
-Por enquanto é só a tela, sem login real. Projeto de estudo, sem vínculo com a prefeitura.
+É só a tela, sem login real. Projeto de estudo, sem vínculo com a prefeitura.
