@@ -1,0 +1,24 @@
+{
+  "name": "goiana-login-react",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Tela de login em React inspirada na Prefeitura de Goiana–PE.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/dm-sans": "5.3.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.1.2",
+    "vite": "8.3.3"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
