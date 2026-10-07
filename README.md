@@ -1,5 +1,9 @@
 # Goiana Login — React
 
+**[Abrir a tela de login online](https://goiana-login-react.wesleytiago470.chatgpt.site)**
+
+A página está privada e pode solicitar login na conta do ChatGPT do proprietário.
+
 Tela de login responsiva, desenvolvida em **React + Vite**, com uma identidade visual inspirada no portal da Prefeitura de Goiana, Pernambuco. Projeto acadêmico, sem vínculo com o município.
 
 ![Tela de login em computador](docs/login-desktop.png)
